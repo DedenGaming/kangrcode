@@ -2522,6 +2522,8 @@ def __menu__(token):
                 print h + ' [' + k + '*' + h + ']' + p + ' Status:' + h + ' Premium*'
 
             print garis
+                        try:
+                if user_agent_ == cokiez:
                 print h + ' [' + k + '1' + h + ']' + d + ' Crack from friends list' + k + ' + TTL'
                 print h + ' [' + k + '2' + h + ']' + d + ' Crack from Public/Teman dari Teman'
                 print h + ' [' + k + '3' + h + ']' + d + ' Crack from Followers list'
